@@ -1,0 +1,45 @@
+body{
+    background: url(../pics/kalle-kortelainen-cjV-y9MSJCg-unsplash.jpg)no-repeat center center/cover;
+    color: white;
+}
+h1{
+    margin-top: 20px;
+    text-align: center;
+}
+.col-md-3{
+    margin-top: 50px;
+}
+.card{
+    padding: 20px;
+    background-color: rgba(0, 36, 114, 0.514);
+}
+.card h3{
+    text-align: center;
+}
+#btn{
+    text-align: center;
+    
+}
+#usa #alldata{
+    color: rgba(40, 73, 102, 0);
+}
+#alldatashow{
+    color: white;
+    background-color: #0008ffcf;
+    position: absolute;
+    text-align: start;
+    width: 50%;
+    left: 400px;
+    top: -350px;
+    z-index: 10;
+}
+#alldatashow h5{
+  margin: 10px;
+}
+#show-data{
+    margin: 30px 0px;
+    text-align: center;
+}
+button{
+    padding: 10px;
+}
